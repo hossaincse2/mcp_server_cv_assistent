@@ -1,0 +1,5 @@
+# requirements.txt
+mcp
+PyPDF2
+fastmcp
+mcp[cli]
