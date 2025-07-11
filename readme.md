@@ -3,7 +3,7 @@
 A powerful Model Context Protocol (MCP) server for CV/Resume analysis and processing. This tool allows you to upload, analyze, and extract information from CV documents seamlessly through Claude AI.
 
 ![MCP CV Assistant](img/mcp_dev.png)
-![claude_devloper_mc_server_runnnig](img/claude_devloper_mc_server_runnnig.png))
+![claude_devloper_mc_server_runnnig](img/claude_devloper_mc_server_runnnig.png)
 ![claude_ai](img/claude_ai.jpeg)
 
 ## 🚀 Features
